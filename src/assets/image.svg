@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="175" height="35" viewBox="0 0 200 40" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="rgba(35, 69, 21, 0)"></rect>
+<g transform="matrix(2.37 0 0 2.66 334.53 240.61)" style=""  >
+		<text xml:space="preserve" font-family="'Oswald', sans-serif" font-size="38" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-67.98" y="11.94" >J</tspan><tspan x="-55.42" y="11.94" >V</tspan><tspan x="-35.12" y="11.94" style="white-space: pre; "> </tspan><tspan x="-25.3" y="11.94" >M</tspan><tspan x="0.9" y="11.94" >o</tspan><tspan x="18.17" y="11.94" >n</tspan><tspan x="35.97" y="11.94" >e</tspan><tspan x="53.08" y="11.94" >y</tspan></text>
+</g>
+<g transform="matrix(1.18 0 0 1.05 100.11 23.46)" style=""  >
+		<text xml:space="preserve" font-family="'Oswald', sans-serif" font-size="26" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(247,247,247); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-43.84" y="8.17" >JV Money</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 75.5 21)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -51.89 -0.39)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,204,149); fill-rule: nonzero; opacity: 1;"  transform=" translate(-15.61, -15.61)" d="M 26.6418 4.57097 C 23.6942 1.62331 19.775 0 15.6064 0 C 11.4378 0 7.51863 1.62331 4.57097 4.57097 C 1.62331 7.51863 0 11.4378 0 15.6064 C 0 19.775 1.62337 23.6941 4.57097 26.6418 C 7.51857 29.5896 11.4378 31.2128 15.6064 31.2128 C 19.775 31.2128 23.6942 29.5895 26.6418 26.6418 C 29.5895 23.6942 31.2128 19.775 31.2128 15.6064 C 31.2128 11.4378 29.5894 7.51869 26.6418 4.57097 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -51.45 0.05)" clip-path="url(#CLIPPATH_12)"  >
+<clipPath id="CLIPPATH_12" >
+	<rect transform="matrix(1 0 0 1 0 0)" id="clip0_35212_809" x="-10.70155" y="-10.70155" rx="0" ry="0" width="21.4031" height="21.4031" />
+</clipPath>
+<path style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-16.05, -16.05)" d="M 16.0522 6.24263 V 25.8621" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -51.45 0.05)" clip-path="url(#CLIPPATH_13)"  >
+<clipPath id="CLIPPATH_13" >
+	<rect transform="matrix(1 0 0 1 0 0)" id="clip0_35212_809" x="-10.70155" y="-10.70155" rx="0" ry="0" width="21.4031" height="21.4031" />
+</clipPath>
+<path style="stroke: rgb(255,255,255); stroke-width: 2; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;"  transform=" translate(-16.05, -16.05)" d="M 20.5114 9.80981 H 13.8229 C 12.9951 9.80981 12.2012 10.1387 11.6159 10.724 C 11.0305 11.3094 10.7017 12.1033 10.7017 12.9311 C 10.7017 13.7589 11.0305 14.5528 11.6159 15.1382 C 12.2012 15.7235 12.9951 16.0524 13.8229 16.0524 H 18.2819 C 19.1097 16.0524 19.9036 16.3812 20.489 16.9666 C 21.0743 17.5519 21.4032 18.3458 21.4032 19.1737 C 21.4032 20.0015 21.0743 20.7954 20.489 21.3807 C 19.9036 21.9661 19.1097 22.2949 18.2819 22.2949 H 10.7017" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
