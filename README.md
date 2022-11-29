@@ -1,4 +1,4 @@
-# Jv Money
+# JV Money
 
 ![jvmoney](https://user-images.githubusercontent.com/102697831/204636458-4de7a53c-78e5-4e88-9fa1-76c34487a244.png)
 ![jvmoney2](https://user-images.githubusercontent.com/102697831/204636477-dfd9a26b-0df0-4329-a527-586ecb175b15.png)
